@@ -6,7 +6,7 @@
 [参考。](https://pub.dartlang.org/packages/flutter_redux)
 
 ## 样例
-![](./demo.png)
+![](./demo.gif)
 
 ## Getting Started
 
